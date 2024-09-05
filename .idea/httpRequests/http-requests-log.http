@@ -1,0 +1,44 @@
+POST http://localhost:5050/users
+Content-Type: application/json
+Content-Length: 79
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "dilini@ijse.lk",
+  "name": "dilini",
+  "contact": "097-7891234"
+}
+
+<> 2024-08-15T125122.201.txt
+
+###
+
+POST http://localhost:5050/users
+Content-Type: application/json
+Content-Length: 79
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email": "dilini@ijse.lk",
+  "name": "dilini",
+  "contact": "097-7891234"
+}
+
+<> 2024-08-15T123716.201.txt
+
+###
+
+GET http://localhost:5050/users
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-08-15T123708.404.html
+
+###
+
